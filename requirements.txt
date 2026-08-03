@@ -1,0 +1,2 @@
+# scripts/ use only the Python standard library (csv, ast, datetime).
+# No third-party dependencies are required to reproduce the ground truth.
